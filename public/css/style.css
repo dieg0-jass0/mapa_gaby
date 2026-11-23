@@ -1,0 +1,17 @@
+html, body { height: 100%; margin: 0; font-family: system-ui, sans-serif; }
+#app { display: flex; height: 100%; }
+#map { flex: 1; }
+#side { width: 300px; padding: 14px; box-sizing: border-box; overflow-y: auto; background: #f7f7f5; border-left: 1px solid #ddd; }
+#side h1 { font-size: 17px; margin: 0 0 10px; }
+#side label { font-size: 13px; display: block; margin: 8px 0 4px; }
+#side select { width: 100%; padding: 6px; }
+#detail { margin-top: 14px; font-size: 14px; }
+#detail h2 { font-size: 16px; margin: 0 0 6px; }
+#detail table { width: 100%; border-collapse: collapse; }
+#detail td { padding: 3px 0; border-bottom: 1px solid #e3e3e0; }
+#detail td:last-child { text-align: right; font-weight: 600; }
+#detail ul { padding-left: 18px; margin: 4px 0; }
+.legend { background: #fff; padding: 8px 10px; border-radius: 6px; box-shadow: 0 1px 5px rgba(0,0,0,.3); font-size: 12px; line-height: 18px; }
+.legend i { display: inline-block; width: 16px; height: 12px; margin-right: 6px; opacity: .9; }
+.note { font-size: 11px; color: #666; margin-top: 14px; }
+@media (max-width: 700px) { #app { flex-direction: column-reverse; } #side { width: auto; height: 38%; border-left: 0; border-top: 1px solid #ddd; } }

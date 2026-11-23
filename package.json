@@ -1,0 +1,9 @@
+{
+  "name": "mapa-mvc",
+  "version": "1.0.0",
+  "description": "Mapa interactivo de México (GeoJSON + indicadores) con Node.js, Express y patrón MVC",
+  "main": "app.js",
+  "scripts": { "start": "node app.js", "dev": "nodemon app.js" },
+  "dependencies": { "express": "^4.19.2", "express-handlebars": "^7.1.2" },
+  "devDependencies": { "nodemon": "^3.1.0" }
+}

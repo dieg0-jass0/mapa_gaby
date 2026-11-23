@@ -1,0 +1,254 @@
+[
+ {
+  "nombre": "UNAM – Ciudad Universitaria",
+  "estado": "MX-CMX",
+  "lat": 19.3322,
+  "lng": -99.1872
+ },
+ {
+  "nombre": "IPN – Zacatenco",
+  "estado": "MX-CMX",
+  "lat": 19.504,
+  "lng": -99.147
+ },
+ {
+  "nombre": "UAM – Iztapalapa",
+  "estado": "MX-CMX",
+  "lat": 19.3607,
+  "lng": -99.0743
+ },
+ {
+  "nombre": "CINVESTAV – Zacatenco",
+  "estado": "MX-CMX",
+  "lat": 19.512,
+  "lng": -99.134
+ },
+ {
+  "nombre": "El Colegio de México",
+  "estado": "MX-CMX",
+  "lat": 19.305,
+  "lng": -99.21
+ },
+ {
+  "nombre": "Tec de Monterrey – CDMX",
+  "estado": "MX-CMX",
+  "lat": 19.284,
+  "lng": -99.136
+ },
+ {
+  "nombre": "UAEMéx – Toluca",
+  "estado": "MX-MEX",
+  "lat": 19.2826,
+  "lng": -99.6557
+ },
+ {
+  "nombre": "UAEM – Cuernavaca",
+  "estado": "MX-MOR",
+  "lat": 18.978,
+  "lng": -99.233
+ },
+ {
+  "nombre": "BUAP – Puebla",
+  "estado": "MX-PUE",
+  "lat": 19.005,
+  "lng": -98.2
+ },
+ {
+  "nombre": "UDLAP – Cholula",
+  "estado": "MX-PUE",
+  "lat": 19.054,
+  "lng": -98.284
+ },
+ {
+  "nombre": "UAQ – Querétaro",
+  "estado": "MX-QUE",
+  "lat": 20.593,
+  "lng": -100.404
+ },
+ {
+  "nombre": "Universidad de Guanajuato",
+  "estado": "MX-GUA",
+  "lat": 21.017,
+  "lng": -101.257
+ },
+ {
+  "nombre": "UASLP – San Luis Potosí",
+  "estado": "MX-SLP",
+  "lat": 22.151,
+  "lng": -100.977
+ },
+ {
+  "nombre": "UAA – Aguascalientes",
+  "estado": "MX-AGU",
+  "lat": 21.914,
+  "lng": -102.314
+ },
+ {
+  "nombre": "UAZ – Zacatecas",
+  "estado": "MX-ZAC",
+  "lat": 22.77,
+  "lng": -102.57
+ },
+ {
+  "nombre": "UdeG – Guadalajara",
+  "estado": "MX-JAL",
+  "lat": 20.674,
+  "lng": -103.35
+ },
+ {
+  "nombre": "ITESO – Guadalajara",
+  "estado": "MX-JAL",
+  "lat": 20.608,
+  "lng": -103.415
+ },
+ {
+  "nombre": "Tec de Monterrey – Guadalajara",
+  "estado": "MX-JAL",
+  "lat": 20.733,
+  "lng": -103.456
+ },
+ {
+  "nombre": "UMSNH – Morelia",
+  "estado": "MX-MIC",
+  "lat": 19.69,
+  "lng": -101.206
+ },
+ {
+  "nombre": "Universidad de Colima",
+  "estado": "MX-COL",
+  "lat": 19.24,
+  "lng": -103.72
+ },
+ {
+  "nombre": "UAN – Tepic",
+  "estado": "MX-NAY",
+  "lat": 21.49,
+  "lng": -104.87
+ },
+ {
+  "nombre": "UAS – Culiacán",
+  "estado": "MX-SIN",
+  "lat": 24.8,
+  "lng": -107.39
+ },
+ {
+  "nombre": "UABC – Mexicali",
+  "estado": "MX-BCN",
+  "lat": 32.63,
+  "lng": -115.45
+ },
+ {
+  "nombre": "UABCS – La Paz",
+  "estado": "MX-BCS",
+  "lat": 24.101,
+  "lng": -110.317
+ },
+ {
+  "nombre": "UNISON – Hermosillo",
+  "estado": "MX-SON",
+  "lat": 29.085,
+  "lng": -110.961
+ },
+ {
+  "nombre": "UACH – Chihuahua",
+  "estado": "MX-CHH",
+  "lat": 28.67,
+  "lng": -106.1
+ },
+ {
+  "nombre": "UACJ – Ciudad Juárez",
+  "estado": "MX-CHH",
+  "lat": 31.725,
+  "lng": -106.43
+ },
+ {
+  "nombre": "UAdeC – Saltillo",
+  "estado": "MX-COA",
+  "lat": 25.456,
+  "lng": -100.983
+ },
+ {
+  "nombre": "UANL – Monterrey",
+  "estado": "MX-NLE",
+  "lat": 25.725,
+  "lng": -100.312
+ },
+ {
+  "nombre": "Tec de Monterrey – Monterrey",
+  "estado": "MX-NLE",
+  "lat": 25.651,
+  "lng": -100.29
+ },
+ {
+  "nombre": "UAT – Ciudad Victoria",
+  "estado": "MX-TAM",
+  "lat": 23.734,
+  "lng": -99.133
+ },
+ {
+  "nombre": "UJED – Durango",
+  "estado": "MX-DUR",
+  "lat": 24.02,
+  "lng": -104.66
+ },
+ {
+  "nombre": "UV – Xalapa",
+  "estado": "MX-VER",
+  "lat": 19.53,
+  "lng": -96.92
+ },
+ {
+  "nombre": "UJAT – Villahermosa",
+  "estado": "MX-TAB",
+  "lat": 17.997,
+  "lng": -92.976
+ },
+ {
+  "nombre": "UNACH – Tuxtla Gutiérrez",
+  "estado": "MX-CHP",
+  "lat": 16.75,
+  "lng": -93.11
+ },
+ {
+  "nombre": "UABJO – Oaxaca",
+  "estado": "MX-OAX",
+  "lat": 17.07,
+  "lng": -96.72
+ },
+ {
+  "nombre": "UAGro – Chilpancingo",
+  "estado": "MX-GRO",
+  "lat": 17.55,
+  "lng": -99.5
+ },
+ {
+  "nombre": "UADY – Mérida",
+  "estado": "MX-YUC",
+  "lat": 20.996,
+  "lng": -89.62
+ },
+ {
+  "nombre": "UQROO – Chetumal",
+  "estado": "MX-ROO",
+  "lat": 18.5,
+  "lng": -88.3
+ },
+ {
+  "nombre": "UACAM – Campeche",
+  "estado": "MX-CAM",
+  "lat": 19.84,
+  "lng": -90.53
+ },
+ {
+  "nombre": "UAEH – Pachuca",
+  "estado": "MX-HID",
+  "lat": 20.1,
+  "lng": -98.75
+ },
+ {
+  "nombre": "UATx – Tlaxcala",
+  "estado": "MX-TLA",
+  "lat": 19.32,
+  "lng": -98.23
+ }
+]
